@@ -1,0 +1,9 @@
+../Core/Src/main.c:68:5:_write	4
+../Core/Src/main.c:93:6:PCF_Set_Input	3
+../Core/Src/main.c:112:6:PCF_Read_All	3
+../Core/Src/main.c:132:5:main	1
+../Core/Src/main.c:188:6:SystemClock_Config	3
+../Core/Src/main.c:224:13:MX_I2C1_Init	2
+../Core/Src/main.c:258:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:291:13:MX_GPIO_Init	1
+../Core/Src/main.c:325:6:Error_Handler	1

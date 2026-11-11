@@ -1,0 +1,13 @@
+../Core/Src/main.c:92:5:_write	4
+../Core/Src/main.c:105:19:PCF8574_Write	1
+../Core/Src/main.c:117:19:PCF8574_Read	2
+../Core/Src/main.c:132:6:I2C_Scan	3
+../Core/Src/main.c:150:19:PCF8574_Init	1
+../Core/Src/main.c:160:19:DIP_Read	3
+../Core/Src/main.c:179:6:PCF8574_Test	2
+../Core/Src/main.c:207:5:main	3
+../Core/Src/main.c:302:6:SystemClock_Config	3
+../Core/Src/main.c:339:13:MX_I2C1_Init	2
+../Core/Src/main.c:373:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:406:13:MX_GPIO_Init	1
+../Core/Src/main.c:429:6:Error_Handler	1
